@@ -28,3 +28,7 @@ anotherSet = {"a",1,2}
 mySet.update(anotherSet)
 print(mySet)
 
+print("-----------")
+
+
+set1
