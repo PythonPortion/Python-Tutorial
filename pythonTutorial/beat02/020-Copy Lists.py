@@ -1,0 +1,1 @@
+## NOTE : there are tow functions for copy a list, one is copy(), and the other is list(); you can not count on typing = operator to implement copy feature, the reason is that assignment only retains pointer reference.
