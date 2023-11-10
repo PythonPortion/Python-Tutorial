@@ -40,3 +40,24 @@ print(set3)
 set4 = {'x','y','z'}
 set4.update(set1)
 print(set4)
+
+print("-----------")
+
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+x.intersection_update(y)
+
+print(x)
+
+print("-----------")
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+x.symmetric_difference_update(y)
+
+print(x)
+
+
+print('------')
+
