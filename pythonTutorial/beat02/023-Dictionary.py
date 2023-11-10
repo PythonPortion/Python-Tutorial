@@ -21,4 +21,3 @@ for x in car.values():
 
 for x,y in car.items():
     print(x," : ", y)
-
