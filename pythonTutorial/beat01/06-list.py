@@ -1,5 +1,11 @@
 
-list = ["abcd",123,89.9,'jacke',False]
+list = [
+    "abcd",
+    123,89.9,
+    'jacke',
+    False
+    ]
+
 tinylist = [456,'memo']
 
 print(list)         # ['abcd', 123, 89.9, 'jacke', False]

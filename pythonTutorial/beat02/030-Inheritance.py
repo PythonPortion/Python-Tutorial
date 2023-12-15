@@ -48,3 +48,6 @@ class Teacher(Person):
     
 t = Teacher('daofu','wang',20)
 t.printName()
+'''
+learning by making mistakes through trail and error is more and more important.
+'''

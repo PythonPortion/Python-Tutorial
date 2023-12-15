@@ -10,11 +10,5 @@ print(next(myit))
 print(next(myit))
 # print(next(myit))
 '''
-flaw
-the reason i started with the story of the richest men is to illustrate the flow  in believing 
-
-cringe
-spotlight
-pursue
-cramped cramped cramped  cramped 
+chef ,厨师， chef 厨师
 '''

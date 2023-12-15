@@ -36,5 +36,11 @@ y = json.dumps(x)
 print (y)
 
 '''
-My first partnership was areadly being threatened with an eviction notice
 '''
+r = 0.041 / 12
+b = 30 * 12
+result = 1200000 * (r * pow(1 + r, b)) / (pow(1 + r, b) - 1)
+print(result)
+
+lixi = 1200000 * r
+print(lixi)
