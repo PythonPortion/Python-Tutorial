@@ -44,7 +44,7 @@ def count_markdown_headings(file_path):
 
 if __name__ == "__main__":
     # if u want to log ecah detail of secitons, just set the boolen value True
-    should_log_detail = False
+    should_log_detail = True
     # 指定文件夹路径
     folder_path = '/Users/lingxiao/RichDadAndPoorDad'
     # 获取子文件夹列表
