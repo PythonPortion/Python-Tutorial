@@ -59,8 +59,6 @@ if __name__ == "__main__":
 
         subdir_count = 0
 
-        
-
         if should_log_detail:
             print("==========="*5)
             print(f"{subdir} section detail as follows:")
@@ -87,6 +85,3 @@ if __name__ == "__main__":
         print(log_str)
 
     print(f"RichDadAndPoorDad 总 数 == {total_count}\n")    
-
-
-
