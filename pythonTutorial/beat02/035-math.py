@@ -28,5 +28,33 @@ print(math.ceil(x)) ## 6
 print(math.floor(x)) ## 5
 
 print(math.pi) ## 3.141592653589793
+'''
+abide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
 
 

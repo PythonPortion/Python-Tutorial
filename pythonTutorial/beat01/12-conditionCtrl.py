@@ -8,16 +8,16 @@ def testIfFlow():
     else:
         print("poor grade")
 
-# testIfFlow()
+testIfFlow()
 
-def testMatchCaseFlow():
-    tmp = 89
-    match tmp:
-        case 89:
-            print("not bad")
-        case _:
-            print("no matched value")
+# def testMatchCaseFlow():
+#     tmp = 89
+#     match tmp:
+#         case 89:
+#             print("not bad")
+#         case _:
+#             print("no matched value")
 
 
-testMatchCaseFlow()
+# testMatchCaseFlow()
             

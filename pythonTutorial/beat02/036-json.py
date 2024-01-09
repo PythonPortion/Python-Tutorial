@@ -13,6 +13,21 @@ print(result["city"])
 # print(result.city)
 
 '''
+rise to dominance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import json
 
 # some JSON:
@@ -35,8 +50,6 @@ x = {
 y = json.dumps(x)
 print (y)
 
-'''
-'''
 r = 0.041 / 12
 b = 30 * 12
 result = 1200000 * (r * pow(1 + r, b)) / (pow(1 + r, b) - 1)
