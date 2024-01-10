@@ -19,7 +19,3 @@ myfunc()
 
 print("Python is " + x)
 
-
-
-a = "Hello, World!"
-print(a[1])

@@ -54,9 +54,9 @@ print(type(z)) # <class 'float'>
 >    def myfunc():
 >      global x
 >      x = "fantastic"
->       
+>          
 >    myfunc()
->       
+>          
 >    print("Python is " + x) #Python is fantastic
 >    ```
 >  4. Using the `global` keyword can also change a global variable inside a function.
@@ -79,6 +79,10 @@ Python has the following data types built-in by default, in these categories:
 
 ## Strings
 
+[详情请参考](https://www.w3schools.com/python/python_strings.asp)
+
+[Python 中string的方法](https://www.w3schools.com/python/python_ref_string.asp)
+
 > - Strings in Python <u>**are arrays of bytes**</u> representing unicode characters.
 > - <u>Python does not have a character data type</u>, a single character is simply a string with a length of `1`
 > - Square brackets can be used to access elements of the string.
@@ -87,6 +91,4 @@ Python has the following data types built-in by default, in these categories:
 a = "Hello, World!"
 print(a[1]) # e
 ```
-
-// TODO: @lingxiao string summary	https://www.w3schools.com/python/python_strings.asp
 
