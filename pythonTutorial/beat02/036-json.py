@@ -13,7 +13,7 @@ print(result["city"])
 # print(result.city)
 
 '''
-rise to dominance
+
 
 
 

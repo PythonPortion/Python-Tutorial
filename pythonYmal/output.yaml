@@ -1,0 +1,8 @@
+name: Example
+details:
+  age: 30
+  city: New York
+skills:
+  - Python
+  - YAML
+  - Docker
