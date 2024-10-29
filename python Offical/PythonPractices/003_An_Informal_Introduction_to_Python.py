@@ -66,3 +66,12 @@ Usage: thingy [OPTIONS]
 print("----3333-----")
 
 # Find the distinguishs on above.
+
+a, b = 0, 1
+while a < 10:
+    # a = b
+    # b = a + b
+    # print(a)  # 1  2   4   8  16
+    print(a)
+    a, b = b , a+ b
+    
